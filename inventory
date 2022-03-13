@@ -1,0 +1,9 @@
+asturies.example.com
+[sur]
+pola.example.com
+uvieu.example.com
+[norte]
+aviles.example.com
+[horizontal:children]
+sur
+norte
