@@ -7,3 +7,6 @@ aviles.example.com
 [horizontal:children]
 sur
 norte
+[filesrv]
+servere.lab.example.com
+serverf.lab.example.com
